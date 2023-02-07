@@ -1,1 +1,1 @@
-Not empty readme
+Getting the hand of this
